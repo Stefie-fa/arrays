@@ -6,7 +6,7 @@ package com.example;
  */
 
 
-public class Ejercicio_69_ {
+public class Ejercicio_69_Arrays {
     public static void main(String[] args) {
 
     }
